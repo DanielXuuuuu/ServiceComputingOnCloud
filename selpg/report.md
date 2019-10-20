@@ -3,6 +3,8 @@
 > C语言实现版本：[selpg.c](https://www.ibm.com/developerworks/cn/linux/shell/clutil/selpg.c)
 >
 > 参考文档：[开发 Linux 命令行实用程序](https://www.ibm.com/developerworks/cn/linux/shell/clutil/index.html)
+>
+> [Go Online分享链接](http://139.9.57.167:20080/share/bmm3j8676kvmo1a883t0?secret=false)
 
 #### selpg简介
 
