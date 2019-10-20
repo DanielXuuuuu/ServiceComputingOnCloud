@@ -1,0 +1,30 @@
+[INFO] 2019/10/18 20:10:25 User register
+[INFO] 2019/10/18 20:18:54 userRegister called
+[ERROR] 2019/10/18 20:18:54 username existed
+[INFO] 2019/10/18 20:18:54 Register failed
+[INFO] 2019/10/18 20:35:43 userRegister called
+[ERROR] 2019/10/18 20:35:43 username missing
+[INFO] 2019/10/18 20:35:43 Register failed
+[INFO] 2019/10/18 20:48:54 userLogout callled
+[INFO] 2019/10/18 20:48:54 Logout successfully
+[INFO] 2019/10/18 20:48:58 userLogout callled
+[ERROR] 2019/10/18 20:48:58 Logout before login
+[INFO] 2019/10/18 20:48:58 Logout failed
+[INFO] 2019/10/18 20:49:01 userLogout callled
+[ERROR] 2019/10/18 20:49:01 Logout before login
+[INFO] 2019/10/18 20:49:01 Logout failed
+[INFO] 2019/10/18 21:18:46 userRegister called
+[ERROR] 2019/10/18 21:18:46 invalid phone number
+[INFO] 2019/10/18 21:18:46 Register failed
+[INFO] 2019/10/18 21:18:54 userRegister called
+[ERROR] 2019/10/18 21:18:54 invalid phone number
+[INFO] 2019/10/18 21:18:54 Register failed
+[INFO] 2019/10/18 21:19:08 userRegister called
+[ERROR] 2019/10/18 21:19:08 invalid phone number
+[INFO] 2019/10/18 21:19:08 Register failed
+[INFO] 2019/10/18 21:19:17 userRegister called
+[ERROR] 2019/10/18 21:19:17 invalid phone number
+[INFO] 2019/10/18 21:19:17 Register failed
+[INFO] 2019/10/18 21:19:29 userRegister called
+[ERROR] 2019/10/18 21:19:29 invalid email address
+[INFO] 2019/10/18 21:19:29 Register failed
