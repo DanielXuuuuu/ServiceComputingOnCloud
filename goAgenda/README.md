@@ -68,7 +68,7 @@ func WriteToFile(filePath string, users []User) error{
 }
 ```
 
-Decoding：读取JSON文件
+##### Decoding：读取JSON文件
 
 使用`func Unmarshal(data []byte, v interface{}) error`函数进行解码
 
@@ -93,20 +93,20 @@ func ReadFromFile(filePath string) ([]User, error){
 ```/
 ├── cmd 
 │ 		├── root.go 
-│ 		├── userLogin.go							  	// 用户登入
-│ 		├── userLogout.go						  	  // 用户登出
-│ 		├── userRegister.go						  	  // 用户注册
+│ 		├── userLogin.go		// 用户登入
+│ 		├── userLogout.go	// 用户登出
+│ 		├── userRegister.go	// 用户注册
 ├── data
-│ 		├── agendaLog.log							// 日志文件
-│ 		├── curUser.json								// 存储当前登录的用户信息
-│ 		├── userList.json 								// 存储所有注册用户信息
+│ 		├── agendaLog.log	// 日志文件
+│ 		├── curUser.json		// 存储当前登录的用户信息
+│ 		├── userList.json		// 存储所有注册用户信息
 ├── entity	
-│ 		├── users.go										// JSON相关操作
+│ 		├── users.go				// JSON相关操作
 ├──  logger
-│ 		├── log.go										 	  // 日志相关操作
+│ 		├── log.go						// 日志相关操作
 ├── .travis.yml
 ├── LICENSE
-├── main.go												  	  // 程序入口文件
+├── main.go								// 程序入口文件
 ├── README.md
 ```
 
@@ -398,7 +398,7 @@ notifications:
 
 执行`./goAgenda help`可以查看程序使用方法
 
-![2019-10-20 11-49-47 的屏幕截图](img/2019-10-20 11-49-47 的屏幕截图.png)
+![](img/mianhelp.png)
 
 #### userRegister
 
